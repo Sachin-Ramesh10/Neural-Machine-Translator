@@ -1,0 +1,20 @@
+HUMAN ++++ what is your name
+BOT ++++ tên là cái gì
+HUMAN ++++ What are you doing ?
+BOT ++++ làm gì ?
+HUMAN ++++ this community is amazing ?
+BOT ++++ # # # # ?
+HUMAN ++++ what are you doing
+BOT ++++ làm gì mà bạn đang làm gì .
+=============================================
+HUMAN ++++ John and Jane ran to forest
+BOT ++++ và chạy bộ phim để thành phố
+HUMAN ++++ Hello , How are you ?
+BOT ++++ chào như thế nào ?
+HUMAN ++++ This assignment was very difficult
+BOT ++++ bộ phim rất khó khăn
+HUMAN ++++ Summer is here
+BOT ++++ ở đây là như thế
+=============================================
+HUMAN ++++ This is a beautiful world
+BOT ++++ mà thế này là một thế giới đẹp đẹp đẹp nhất .
